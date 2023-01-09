@@ -8,6 +8,7 @@
 - [ ] リンクが正しいか
 - [ ] No Imageを設定できているか
 - [ ] パンクズリスト全てのページで正常に表示されているか
+- [ ] OGPの設定ができているか
 
 ## WordPress関係
 
@@ -25,3 +26,4 @@
 
 - [ ] Google Search Consoleの登録が済んでいるか
 - [ ] Google Analyticsの登録が済んでいるか
+
